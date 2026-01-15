@@ -43,7 +43,7 @@ The dataset consists of 700 images for each type:
 Prequisites:
 - NodeJS
 - Expo Go installed on your mobile phone
-
+- You need to download the dataset from my personal [gdrive folder](https://drive.google.com/drive/folders/11Axg84oDUUOQmnwZXKvqWP4wVR3IIgqA?usp=sharing) and place it inside `data/`, as it is not uploaded here on this repo.
 ```bash
  $ cd mobile
  
